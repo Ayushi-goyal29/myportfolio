@@ -594,7 +594,7 @@ section {
 
 .portfolio #portfolio-flters li {
   cursor: pointer;
-  display: inline-block;
+  display: flex;
   padding: 10px 15px;
   font-size: 14px;
   font-weight: 600;
